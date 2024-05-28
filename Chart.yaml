@@ -3,7 +3,7 @@ name: appwrite
 description: Appwrite Helm chart
 type: application
 version: 1.0.1
-appVersion: "1.2.1"
+appVersion: "1.5.5"
 dependencies:
   - name: mariadb
     version: 11.5.5
